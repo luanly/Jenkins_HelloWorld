@@ -1,0 +1,13 @@
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\bin\Debug\netcoreapp3.1\Jenkins_HelloWorld.exe
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\bin\Debug\netcoreapp3.1\Jenkins_HelloWorld.deps.json
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\bin\Debug\netcoreapp3.1\Jenkins_HelloWorld.runtimeconfig.json
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\bin\Debug\netcoreapp3.1\Jenkins_HelloWorld.runtimeconfig.dev.json
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\bin\Debug\netcoreapp3.1\Jenkins_HelloWorld.dll
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\bin\Debug\netcoreapp3.1\Jenkins_HelloWorld.pdb
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\obj\Debug\netcoreapp3.1\Jenkins_HelloWorld.csprojAssemblyReference.cache
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\obj\Debug\netcoreapp3.1\Jenkins_HelloWorld.AssemblyInfoInputs.cache
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\obj\Debug\netcoreapp3.1\Jenkins_HelloWorld.AssemblyInfo.cs
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\obj\Debug\netcoreapp3.1\Jenkins_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\obj\Debug\netcoreapp3.1\Jenkins_HelloWorld.dll
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\obj\Debug\netcoreapp3.1\Jenkins_HelloWorld.pdb
+D:\Jenkins HelloWorld\Jenkins_HelloWorld\Jenkins_HelloWorld\obj\Debug\netcoreapp3.1\Jenkins_HelloWorld.genruntimeconfig.cache

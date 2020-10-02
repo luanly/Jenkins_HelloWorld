@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Jenkins_HelloWorld/1.0.0": {
+        "runtime": {
+          "Jenkins_HelloWorld.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jenkins_HelloWorld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
